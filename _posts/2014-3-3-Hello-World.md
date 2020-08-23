@@ -1,10 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: Resumen de biografía
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Mi Nombre es Kevin Josue Gómez Naula tengo 21 años de edad, soy de guayaquil soy el mayor de 2 hermanos; mis pasa tiempos son practicar deportes, leer, jugar videojuegos móviles, me gusta escuchar música electrónica, odio que la gente sea impuntual no me gusta esperar demasiado tiempo, de vez en cuando comparto tiempo con mis amigos como manera de distracción.
